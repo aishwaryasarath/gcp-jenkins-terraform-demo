@@ -5,6 +5,6 @@ variable "region" {
   type    = string
   default = "us-central1"
 }
-variable "credentials_json" {
-  type = string
-}
+#variable "credentials_json" {
+#  type = string
+#}
